@@ -29,4 +29,10 @@ They are designed to help **beginners**, **college students**, and **interview a
 ---
 
 ## 📁 Folder Structure (Suggested)
+/Basics
+/Arrays
+/Strings
+/Functions
+/Pointers
+/FileHandling
 
