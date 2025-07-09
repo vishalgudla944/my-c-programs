@@ -36,3 +36,41 @@ They are designed to help **beginners**, **college students**, and **interview a
 /Pointers
 /FileHandling
 
+
+---
+
+## 🛠️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vishalgudla944/c-programs.git
+
+2. Navigate to the project directory:
+cd c-programs (your folder name)
+
+3. Compile and run any .c file
+gcc filename.c -o output
+./output
+OR USE VS Code or CodeBlocks
+Make sure GCC (GNU Compiler Collection) is installed on your system.
+
+
+
+
+👨‍💻 About Me
+Vishal Gudla
+Vice President, App and Web Development Club – KGRCET
+Passionate about coding, teaching, and building real-world solutions.
+
+🔗 GitHub https://github.com/vishalgudla944
+🔗 LinkedIn https://www.linkedin.com/in/vishal-gudla/
+
+
+Contributions
+Contributions are welcome! Feel free to:
+
+Fork this repository
+
+Add new programs or improve existing ones
+
+Create a pull request
