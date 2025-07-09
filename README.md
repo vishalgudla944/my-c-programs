@@ -14,7 +14,10 @@ They are designed to help **beginners**, **college students**, and **interview a
 - ✅ Arrays and Strings  
 - ✅ Pointers  
 - ✅ Structures and Unions  
-- ✅ File Handling  
+- ✅ File Handling
+- 
+Use the "Go to file" search option to quickly find your desired topics or programs.
+You can search using filenames like p1, p2, p3, or by keywords such as Arrays, Strings, Operators, etc.
 
 
 ---
